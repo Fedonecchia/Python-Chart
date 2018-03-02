@@ -28,8 +28,3 @@ for r in range(1, row+2):
                 if c == col:
                     board += "|"
 print("\nEt voilà\n\n", board, sep="")
-
-
-
-
-
